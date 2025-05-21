@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fitshield</string>
+    <string name="emergency_alert_text">Emergency Alert</string>
+    <string name="stop_alert">Stop</string>
+</resources>
