@@ -1,9 +1,7 @@
 #🚨 FitShield – Women Safety Application
-
 FitShield is a mobile-based women safety application designed to provide 24/7 security through a floating SOS icon that allows users to instantly send emergency alerts with real-time location sharing and SMS notifications to trusted contacts.
 
 #✨ Features
-
 🆘 **Floating SOS Button** – Always visible on the screen for quick access.
 
 📍 **Live Location Sharing** – Sends user’s current location to emergency contacts.
@@ -15,7 +13,6 @@ FitShield is a mobile-based women safety application designed to provide 24/7 se
 📱 **User-Friendly Interface** – Lightweight and easy-to-use design.
 
 #🛠️ Tech Stack
-
 **Programming:** Java/Kotlin (Mobile Development)
 
 **APIs:** SMS Gateway, Google Maps API
@@ -25,7 +22,6 @@ FitShield is a mobile-based women safety application designed to provide 24/7 se
 **Other:** Background Services, Real-time Location Tracking
 
 #🚀 How It Works
-
 User installs the app and registers emergency contacts.
 
 The floating SOS button appears on screen 24/7.
@@ -41,7 +37,6 @@ Continuous location updates keep contacts aware of the user’s movement until s
 ![Screenshot_2025-09-04-12-10-09-82_0ce57feeccaa51fb7deed04b4dbda235](https://github.com/user-attachments/assets/fd88a814-e293-40f6-aa15-d987cee8019d)
 
 #📌 Future Enhancements
-
 🚨 Integration with local police helpline APIs.
 
 🔊 Voice-activated SOS trigger.
